@@ -8,7 +8,12 @@ const Footer = () => {
         reservados.
       </span>
       <span>
-        Desarrollado por <a href="mailto:">EzzE</a>
+        <span>
+          Desarrollado por{" "}
+          <a href="https://ezze.ar" target="_blank" rel="noopener noreferrer">
+            EzzE
+          </a>
+        </span>
       </span>
     </FooterContainer>
   );
